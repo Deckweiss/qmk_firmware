@@ -1,1 +1,1 @@
-# The default keymap for hacked_motospeed
+# The default keymap for birdie_numpad
